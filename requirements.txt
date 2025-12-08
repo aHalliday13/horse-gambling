@@ -1,3 +1,5 @@
 matplotlib
 xmlschema
 trueskill
+networkx
+scipy
