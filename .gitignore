@@ -2,3 +2,4 @@ equibase
 venv
 .vscode
 __pycache__
+*.pickle

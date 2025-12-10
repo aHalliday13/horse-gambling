@@ -1,6 +1,8 @@
 """
 Tools for generating TrueSkill rankings based on equibase data
+this is all implemented terribly idk what i was thinking when i wrote any of this
 """
+
 import equibase
 import networkx as nx
 import matplotlib.pyplot as plt
